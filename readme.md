@@ -1,4 +1,4 @@
-# Lara Todo
+# Lara Commerce
 
 Lara commerce is a online ecommerce application built on top of Laravel 5 framework. 
 Here admin can add products, product images, with tags and category support.
@@ -49,7 +49,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-### Now you can register for a  new account from http://ecommerce.ohidul.com/auth/register and after login you can add product
+#### Now you can register for a  new account from http://ecommerce.ohidul.com/auth/register and after login you can add product
 
 Now you are all setup to go. Thanks
 
